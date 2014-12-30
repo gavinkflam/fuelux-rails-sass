@@ -20,13 +20,13 @@
   bundle install
   ```
 
-2. Add to your `config/initializers/assets.rb` in order to have the images for lightbox precompiled:
+2. Add to your `config/initializers/assets.rb` in order to have the fonts for Fuel UX precompiled:
 
   ```ruby
   Rails.application.config.assets.precompile += /\.(?:svg|eot|woff|ttf)$/
   ```
 
-3. Require the modified Lightbox2 javascript file in `app/assets/javascripts/application.js`:
+3. Require the modified Fuel UX javascript file in `app/assets/javascripts/application.js`:
 
   ```js
   //= require fuelux
@@ -38,7 +38,7 @@
   #= require fuelux
   ```
 
-4. Require the modified Lightbox2 css file in `app/assets/stylesheets/application.css`:
+4. Require the modified Fuel UX css file in `app/assets/stylesheets/application.css`:
   
   ```css
   *= require fuelux
