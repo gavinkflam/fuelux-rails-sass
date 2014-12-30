@@ -1,0 +1,1 @@
+require 'fuelux/rails/sass'
