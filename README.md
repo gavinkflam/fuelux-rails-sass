@@ -23,7 +23,7 @@
 2. Add to your `config/initializers/assets.rb` in order to have the fonts for Fuel UX precompiled:
 
   ```ruby
-  Rails.application.config.assets.precompile += /\.(?:svg|eot|woff|ttf)$/
+  Rails.application.config.assets.precompile << /\.(?:svg|eot|woff|ttf)$/
   ```
 
 3. Require the modified Fuel UX javascript file in `app/assets/javascripts/application.js`:
