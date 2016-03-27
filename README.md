@@ -1,6 +1,7 @@
 # fuelux-rails-sass
 
-[![Gem Version](https://badge.fury.io/rb/fuelux-rails-sass.svg)](http://badge.fury.io/rb/fuelux-rails-sass)
+[![Gem Version](http://img.shields.io/gem/v/fuelux-rails-sass.svg)](https://rubygems.org/gems/fuelux-rails-sass)
+[![Gem Downloads](https://img.shields.io/gem/dt/fuelux-rails-sass.svg)](https://rubygems.org/gems/fuelux-rails-sass)
 
 [Fuel UX](https://github.com/ExactTarget/fuelux/) for Rails asset pipeline
 
