@@ -7,7 +7,7 @@
 
 - Modified for [Sprockets](https://github.com/sstephenson/sprockets)' asset digests compatibility
 
-- Fuel UX version: [3.4.0](https://github.com/ExactTarget/fuelux/releases/tag/3.4.0)
+- Fuel UX version: [3.14.2](https://github.com/ExactTarget/fuelux/releases/tag/3.14.2)
 
 ## Installation
 
